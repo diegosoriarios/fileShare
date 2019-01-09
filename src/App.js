@@ -11,7 +11,7 @@ class App extends Component {
 
   saveFile = () => {
     console.log(this.state.file)
-    axios.post('https://file.io/?expires=1w', {
+    axios.post('https://file.io/?expires=1', {
       file: this.state
     })
     .then(function (response) {
