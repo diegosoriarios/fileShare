@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using [file.io API](https://www.file.io/)
+Using [axios](https://github.com/axios/axios)
+Maybe use [CURL-TO-JSON](https://github.com/askucher/curl-to-json)
 
 ## Available Scripts
 
